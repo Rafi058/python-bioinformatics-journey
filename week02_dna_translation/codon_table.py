@@ -1,0 +1,1 @@
+# Placeholder for codon_table.py
